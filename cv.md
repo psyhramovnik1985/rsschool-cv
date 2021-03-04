@@ -28,10 +28,10 @@ function fizzBuzz () {
 ### Work experience 
 
 * *August 2019 – October 2019, Trainee, Educational Center of High-Tech Park*
-  * Link GitHub: https://github.com/psyhramovnik1985/myFirstExperienceHTMLCSS
+  * **Link GitHub:** https://github.com/psyhramovnik1985/myFirstExperienceHTMLCSS
 
 * *November 2019 – March 2020, Trainee, Educational Center of High-Tech Park*
-  * Link GitHub: https://github.com/psyhramovnik1985/gameTanks
+  * **Link GitHub:** https://github.com/psyhramovnik1985/gameTanks
 
 ### Education 
 
