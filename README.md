@@ -1,1 +1,1 @@
-https://psyhramovnik1985.github.io/rsschool-cv/cv
+https://psyhramovnik1985.github.io/rsschool-cv/
