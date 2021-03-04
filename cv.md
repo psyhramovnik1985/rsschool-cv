@@ -2,6 +2,7 @@
 ### CONTACTS
 
 Email:  slava.kost.dev@gmail.com
+
 Linkedin: https://www.linkedin.com/in/viachaslav-kastsiukevich-a287301a4/
 
 ### Summary
@@ -36,9 +37,11 @@ function fizzBuzz () {
 ### Education 
 
 **November 2019 – March 2020 – Educational Center for Programming and High Tech (IT-Academy)**
+
 *Course: Web application development with JAVASCRIPT*
 
 **August 2019 – October 2019 – Educational Center for Programming and High Tech (IT-Academy)**
+
 *Course: Website development with HTML, CSS & JAVASCRIPT*
 
 **2002 – 2005 – Minsk State Higher Aviation College**
