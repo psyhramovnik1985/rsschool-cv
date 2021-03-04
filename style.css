@@ -1,0 +1,103 @@
+header {
+	max-width: 1440px;
+	margin: 5px auto;
+	display: flex;
+	justify-content: space-between;
+	
+	box-shadow: 5px 5px 5px grey;
+	border: solid 1px grey;
+}
+
+.header-foto {
+	width: 34%;
+} 
+
+.header-foto img {
+	margin: 10px;
+	vertical-align: middle;
+	width: 100%;
+} 
+
+.header-name {
+	width: 62%;
+	text-shadow: 6px 6px 6px grey;
+} 
+
+.header-name h1 {	
+	text-align: center;
+	margin: 12%;
+}
+
+.header-name h2,
+.header-name ul {	
+	text-align: right;
+	margin-right: 12%;
+	list-style-type: none;
+}
+.header-name h2 {
+	margin-top: 25%;
+}
+
+.content {
+	max-width: 1440px;
+	margin: 5px auto;
+	box-shadow: 5px 5px 5px grey;
+	border: solid 1px grey;
+	padding: 5px;
+}
+
+.content > div {
+	border-bottom: solid 1px grey;
+}
+
+.content-code p {
+	margin: 2px;
+}
+
+@media only all and (max-width: 1100px) {
+	.header-name h2 {
+		margin-top: 12%;
+	}
+}
+
+@media only all and (max-width: 750px) {
+	.header-name h1 {
+    	margin: 2%;
+	}
+
+	.header-name h2 {
+    	margin: 5% 12% 2% 2%;
+	}
+}
+
+@media only all and (max-width: 570px) {
+	header {
+		display: block;
+	}
+
+	.header-foto {
+		width: 100%;
+	} 
+
+	.header-foto img {
+		width: 95%;
+	} 
+
+	.header-name {
+		width: 100%;
+	} 
+
+	.header-name h1 {
+    	font-size: 20px;
+    	margin-top: 12%;
+	}
+
+	.header-name h2 {
+    	font-size: 16px;
+    	margin-top: 15%;
+	}
+
+	.content p {
+		font-size: 12px;
+	}
+}
