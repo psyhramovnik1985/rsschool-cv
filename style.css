@@ -38,7 +38,7 @@ header {
 	margin-top: 25%;
 }
 
-.content {
+main {
 	max-width: 1440px;
 	margin: 5px auto;
 	box-shadow: 5px 5px 5px grey;
@@ -46,12 +46,33 @@ header {
 	padding: 5px;
 }
 
-.content > div {
+main section {
 	border-bottom: solid 1px grey;
+}
+
+.content-code > div {
+	background-color: lightgray;
 }
 
 .content-code p {
 	margin: 2px;
+}
+
+footer {
+	max-width: 1440px;
+	margin: 15px auto;
+	text-align: center;
+}
+
+footer img {
+	border: solid gray 1px;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px grey;
+	width: 170px;
+}
+
+footer img:active {
+	box-shadow: none;
 }
 
 @media only all and (max-width: 1100px) {
@@ -97,7 +118,7 @@ header {
     	margin-top: 15%;
 	}
 
-	.content p {
+	main p {
 		font-size: 12px;
 	}
 }
